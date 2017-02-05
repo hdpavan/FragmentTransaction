@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/lableStyle"
+        android:text="@string/lable_in_fragment_01"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btn_f1_01"
+        style="@style/buttonStyle"
+        android:text="@string/lable_move_fragment02" />
+
+    <Button
+        android:id="@+id/btn_f1_02"
+        style="@style/buttonStyle"
+        android:text="@string/lable_move_fragment03" />
+
+</LinearLayout>

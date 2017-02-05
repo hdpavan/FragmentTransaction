@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FragmentTransaction</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="MainFragmentTitle">MainFragment</string>
+    <string name="Fragment01Title">Fragment01</string>
+    <string name="Fragment02Title">Fragment02</string>
+    <string name="Fragment03Title">Fragment03</string>
+
+    
+    <string name="lable_in_mainfragment">In MainFragment</string>
+    <string name="lable_in_fragment_01">In Fragment 1</string>
+    <string name="lable_in_fragment_02">In Fragment 2</string>
+    <string name="lable_in_fragment_03">In Fragment 3</string>
+
+    <string name="lable_move_fragment01">Click To Move Fragment 1</string>
+    <string name="lable_move_fragment02">Click To Move Fragment 2</string>
+    <string name="lable_move_fragment03">Click To Move Fragment 3</string>
+
+
+</resources>
